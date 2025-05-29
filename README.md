@@ -61,10 +61,5 @@ npm run dev
 - shadcn-ui
 - Tailwind CSS
 
-## 프로젝트 배포 방법 (How to Deploy)
 
-[Lovable](https://lovable.dev/projects/9d91b3cc-0bdd-413a-a765-f002653eb2f6)을 열고 Share -> Publish를 클릭하세요.
-
-## 커스텀 도메인 사용하기 (Custom Domain)
-
-현재는 커스텀 도메인을 지원하지 않습니다. 자신의 도메인에 프로젝트를 배포하려면 Netlify 사용을 권장합니다. 자세한 내용은 문서를 참조하세요: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
+![diagram](https://github.com/user-attachments/assets/a76fbc6f-4980-4a15-ba63-b988b40646fa)
